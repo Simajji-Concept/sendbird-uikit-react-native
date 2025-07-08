@@ -1,4 +1,6 @@
 {
+  "name": "@sendbird/uikit-react-native",
+  "version": "3.9.6",
   "repository": "git@github.com:Simajji-Concept/sendbird-uikit-react-native.git",
   "private": true,
   "workspaces": {
