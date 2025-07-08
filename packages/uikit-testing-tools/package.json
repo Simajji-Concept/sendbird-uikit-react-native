@@ -25,15 +25,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sendbird/sendbird-uikit-react-native.git",
+    "url": "https://github.com/Simajji-Concept/sendbird-uikit-react-native.git",
     "directory": "packages/uikit-testing-tools"
   },
   "author": "Sendbird <support@sendbird.com>",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/sendbird/sendbird-uikit-react-native.git/issues"
+    "url": "https://github.com/Simajji-Concept/sendbird-uikit-react-native.git/issues"
   },
-  "homepage": "https://github.com/sendbird/sendbird-uikit-react-native.git#readme",
+  "homepage": "https://github.com/Simajji-Concept/sendbird-uikit-react-native.git#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
